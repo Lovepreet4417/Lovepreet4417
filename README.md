@@ -8,4 +8,4 @@
 - 📫 How to reach me: [Linkedin- @Lovepreet Kaur](https://www.linkedin.com/in/lovepreet-kaur-76b540210/)
 - 😄 Pronouns: She/Her
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=Lovepreet4417">
