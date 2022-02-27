@@ -7,7 +7,6 @@
 - 💬 Ask me about flutter,IoT and  3D printing in Fusion 360.
 - 📫 How to reach me: [Linkedin- @Lovepreet Kaur](https://www.linkedin.com/in/lovepreet-kaur-76b540210/)
 - 😄 Pronouns: She/Her👩
-- ⚡ Fun fact-
 
 ## 🚀 Languages and Tools:
 
