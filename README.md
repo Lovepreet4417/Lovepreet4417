@@ -22,11 +22,6 @@
 </p>
 
 ## 📊 My Github Stats:
-<br/>
-  <a href="https://github.com/Lovepreet4417/github-readme-stats"><img alt="Lovepreet Kaur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lovepreet4417&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Lovepreet4417/github-readme-stats"><img alt="Lovepreet Kaur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovepreet4417&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <br/>
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Lovepreet4417&show_icons=true&theme=radical">
 
 
