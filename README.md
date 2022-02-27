@@ -20,6 +20,11 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
 </p>
+<p align="center">
+    <a href="https://github.com/Lovepreet4417/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lovepreet Kaur's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lovepreet4417">
+    </a>
+</p>
 
 ## 📊 My Github Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=Lovepreet4417&show_icons=true&theme=radical">
