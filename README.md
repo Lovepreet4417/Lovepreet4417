@@ -21,6 +21,7 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
 </p>
 
-
+## 📊 My Github Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=Lovepreet4417&show_icons=true&theme=radical">
 
 
